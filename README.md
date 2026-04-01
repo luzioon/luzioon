@@ -1,6 +1,6 @@
 <!-- Header animado -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=luzioon&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=front-end%20dev%20%2F%2F%20pixel%20by%20pixel&descAlignY=58&descSize=16&descColor=888888" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=luzioon&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=front-end%20dev%20%2F%2F&descAlignY=58&descSize=16&descColor=888888" width="100%"/>
 </div>
 
 <!-- Typing effect -->
