@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### Roan da Silva Eleuterio
+### Roan da Silva Eleutério
 
 Front-end developer focused on building clean, responsive, and well-structured interfaces.
 
