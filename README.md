@@ -40,8 +40,7 @@
 ## `~$ github --stats`
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luzioon&show_icons=true&theme=dark&bg_color=0f0f0f&border_color=222222&title_color=ffffff&icon_color=888888&text_color=888888&hide_border=false"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luzioon&layout=compact&theme=dark&bg_color=0f0f0f&border_color=222222&title_color=ffffff&text_color=888888"/>
+  <img src="https://streak-stats.demolab.com?user=luzioon&theme=dark&background=0f0f0f&border=222222&stroke=222222&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=888888&currStreakLabel=888888&sideLabels=888888&dates=555555" alt="GitHub Streak"/>
 </div>
 
 <br/>
